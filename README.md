@@ -1,2 +1,2 @@
-# benjaminslates22.github.io
+# Benjamin Slates
 Data Analytics Portfolio
