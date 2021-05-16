@@ -1,2 +1,2 @@
-# H1 Benjamin Slates <p align="center">
+# Benjamin Slates 
 Data Analytics Portfolio
