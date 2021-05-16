@@ -1,2 +1,2 @@
 # Benjamin Slates
-Data Analytics Portfoli
+Data Analytics Portfolio
