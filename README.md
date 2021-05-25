@@ -3,4 +3,4 @@
 * Ran numerous single and multiple regression models in R to determine predictor signifgance for model selection
 * Constructed graphs and visualizations with Tableau to illustrate the findings of the final model and the predictors' effects on crime rate.
 
-![](/image/Crime%20Rate%20Graph.png)
+![](/image/Screen%20Shot%202021-05-24%20at%208.09.49%20PM.png)
