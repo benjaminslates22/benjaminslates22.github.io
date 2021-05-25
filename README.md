@@ -4,3 +4,8 @@
 * Constructed graphs and visualizations with Tableau to illustrate the findings of the final model and the predictors' effects on crime rate.
 
 ![](/image/WV%20Crime%20Image.png)
+
+
+# [Creating a Spam Email Filter With Classification Models](https://github.com/benjaminslates22/Spam_Filter) 
+* C
+
