@@ -7,7 +7,7 @@
 
 
 # [Creating a Spam Email Filter With Classification Models](https://github.com/benjaminslates22/Spam_Filter) 
-* Trained and tested numerous classification models and trees to develope a model to accuratly predict if an email is or is not spam
+* Trained and tested numerous classification models and trees to develop a model to accurately predict if an email is or is not spam
 * Used 10 fold cross validation on a subset of the original data to mininum bias and increase accuracy of the models
 * Utilized the Caret package in R to streamline the process of selecting and comparing multiple models
 
