@@ -14,4 +14,4 @@
 
 # [Spotify Global Top 50 Analysis](https://github.com/benjaminslates22/Spotify_Analysis)
 * Pulled Song data from the Spotify Global Top 50 Playlist into R studio via the Spotify API to configure a data set
-* Studied relationships and trends amungst the songs to better understand the preferences of music listeners at the current moment.
+* Studied relationships and trends amongst the songs to better understand the preferences of music listeners at the current moment.
