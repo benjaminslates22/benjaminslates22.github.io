@@ -11,3 +11,7 @@
 * Used 10 fold cross validation on a subset of the original data to mininum bias and increase accuracy of the models
 * Utilized the Caret package in R to streamline the process of selecting and comparing multiple models
 
+
+# [Spotify Global Top 50 Analysis](https://github.com/benjaminslates22/Spotify_Analysis)
+* Pulled Song data from the Spotify Global Top 50 Playlist into R studio via the Spotify API to configure a data set
+* Studied relationships and trends amungst the songs to better unerstand the preferences of music listeners at the moment.
